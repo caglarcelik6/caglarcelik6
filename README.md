@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Çağlar Çelik</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<p>As a university graduate in software engineering, I have spent 9 years working in systems expertise. During this time, I gained deep expertise in managing, optimizing, and securing complex systems. Currently, I am advancing my career in frontend web development. With a strong ability to quickly adapt to new technologies, I am continuously enhancing my skills in developing modern web applications.</p>
 
 - 🔭 I’m currently working on **React**
 
